@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node scripts/getWETH.js && node scripts/swap.js && node scripts/mint.js",
+    "start": "node index.js",
     "add-liquidity": "node scripts/addLiquidity.js",
     "remove-liquidity": "node scripts/removeLiquidity.js"
   },
